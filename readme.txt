@@ -1,6 +1,6 @@
 This code can be compiled with g++. If the compilation is not successful, please use the later version of g++ and c++11 or higher standard libraries.
 
-For example: g++ "-std=c++11" -O3 -o run OVDO.cpp
+For example: g++ "-std=c++11" -O3 -o run OTS.cpp
 
 The first parameter is the input file name.
 The second parameter is the output file name.
